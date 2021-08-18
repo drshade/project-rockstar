@@ -38,3 +38,33 @@ My name is Tom Wells, and I am a bit of a "couch de-centralist", having discover
 In my professional life I am "Chief Disruption Officer" of a company called Synthesis Software Technologies, based in South Africa, of which I am fortunate enough to have co-founded along with some other very smart folks in 2004. Today my role is looking at emerging technologies such as blockchain, distributed system architectures, machine learning, cloud and hyper-scale. I am a skilled functional programmer, able to build enterprise grade web and mobile platforms using Haskell, PureScript, JavaScript, Scala and many other "mainstream" languages such as C/C++, C# & Java. You can checkout my blog at https://tomwells.org where I post links to all my videos & articles collected over the years.
 
 I have also been very fortunate to have been selected to take part of *Cohort 2 of the Plutus Pioneers Program* - which is currently underway and presented by the talented Lars Brünjes of IOHK. We are currently on Lecture #8, and at this stage I would say I understand the overall model of Plutus, including the eUTXO model pretty well. Luckily my Haskell / PureScript background means I have been fortunate enough to not struggle with the programming language as much as others might have - so although the content is rich & deep, I haven't had to spend much time on homework over the course of the program.
+
+## Phases
+
+### Phase 1 - MVP of basics
+
+This is the phase under consideration, which will be developed through the funding provided by Fund 6. Still to be fleshed out in more details, but high-level components include:
+- Simple "parameterised" proposals (Plutus/Marlowe smart-contracts)
+- Simple portal to Pitch, Invest and Launch (fund raising portal)
+- Simple DAO functionality (principle proposes, investors vote, disburse, cancel and redeem tokens)
+- Fixed, vetted, 3rd party providers (training, certification, equipment, etc - maybe start with centralised vetting)
+
+### Phase 2 - High value next steps
+
+The next iteration under consideration, highly flexible and based on demand
+- Open 3rd party providers (based on some sort of decentralised vetting process)
+- DEX for trading of time tokens
+- Remote video conferencing facility, allowing for direct redemption of time tokens 1-on-1 between principle individual and token holder, potentially including a scheduling, project management and team management (i.e. allowing for more than 1 individual redeeming time in parallel for a single investor)
+
+.. many many more ..
+
+## Funding requirements
+
+Based on the Phase 1 requirements above, and the support of the Cardano community - my estimate for funding is *$120,000* should allow myself and a small team of high impact individuals to build and launch the platform. I feel this is achievable within 3-6 months of focused development effort. My goal would be to identify 10 principle individuals to work with as the first cohort in a closed pilot phase, in which we can focus with high-care to ensure the system and governance mechanisms work well from both sides.
+
+## Contact me
+
+Thank you so much for allowing me to present the above, and I look forward to comments, suggestions and your support in unlocking this "big idea"!
+
+Contact me on discord: drshade#3337
+This url: https://git.io/J0cWk
