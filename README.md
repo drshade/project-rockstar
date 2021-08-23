@@ -8,6 +8,8 @@ This repo holds additional information & background to the *"Project Rockstar - 
 
 A gig platform to foster and fuel high-demand and highly-skilled talent, inverting the power dynamic between employers and individuals. Not a traditional "microlending" model, but rather a decentralised "investment" model - where talented individuals can raise funds to further their own careers through training and tech equipment (laptop, etc). "Time-tokens" are issued by each individual fund raising smart contract, allowing for voting & distribution of funds to individuals as needed.
 
+Contribute to solving the adoption of ADA by providing a "gig platform" for highly skilled individuals such as software engineers, lawyers & doctors to fund their career investment, receive mentoring and support, and eventually deliver high demand services to employers.
+
 ## Draft pitch deck
 
 ![Slide 2](catalyst-f6/images/slide2.png)
@@ -37,7 +39,7 @@ My name is Tom Wells, and I am a bit of a "couch de-centralist", having discover
 
 In my professional life I am "Chief Disruption Officer" of a company called Synthesis Software Technologies, based in South Africa, of which I am fortunate enough to have co-founded along with some other very smart folks in 2004. Today my role is looking at emerging technologies such as blockchain, distributed system architectures, machine learning, cloud and hyper-scale. I am a skilled functional programmer, able to build enterprise grade web and mobile platforms using Haskell, PureScript, JavaScript, Scala and many other "mainstream" languages such as C/C++, C# & Java. You can checkout my blog at https://tomwells.org where I post links to all my videos & articles collected over the years.
 
-I have also been very fortunate to have been selected to take part of *Cohort 2 of the Plutus Pioneers Program* - which is currently underway and presented by the talented Lars Brünjes of IOHK. We are currently on Lecture #8, and at this stage I would say I understand the overall model of Plutus, including the eUTXO model pretty well. Luckily my Haskell / PureScript background means I have been fortunate enough to not struggle with the programming language as much as others might have - so although the content is rich & deep, I haven't had to spend much time on homework over the course of the program.
+I have also been very fortunate to have been selected to take part of *Cohort 2 of the Plutus Pioneers Program* - presented by the talented Lars Brünjes of IOHK - and just completed last week (19th August 2021). This program was excellent and very technical, giving me a very good understanding of the overall model of Plutus plus Marlowe, including the EUTxO model pretty well. Luckily my Haskell / PureScript background means I have been fortunate enough to not struggle with the programming language as much as others might have - so although the content is rich & deep, I haven't had to spend much time on homework over the course of the program.
 
 ## Phases
 
@@ -60,7 +62,7 @@ The next iteration under consideration, highly flexible and based on demand
 
 ## Funding requirements
 
-Based on the Phase 1 requirements above, and the support of the Cardano community - my estimate for funding is *$120,000* should allow myself and a small team of high impact individuals to build and launch the platform. I feel this is achievable within 3-6 months of focused development effort. My goal would be to identify 10 principle individuals to work with as the first cohort in a closed pilot phase, in which we can focus with high-care to ensure the system and governance mechanisms work well from both sides.
+Based on the Phase 1 requirements above, and the support of the Cardano community - my estimate for funding is *$120,000*, allowing myself and a small team of high impact individuals to build and launch the platform. I feel this is achievable within 4-6 months of focused development effort. My goal would be to identify 10 principle "rockstars" to work with as the first cohort in a closed pilot phase, in which we can focus with high-care to ensure the system and governance mechanisms work well from both sides.
 
 ## Contact me
 
@@ -68,3 +70,6 @@ Thank you so much for allowing me to present the above, and I look forward to co
 
 Contact me on discord: drshade#3337
 This url: https://git.io/J0cWk
+Proposer ada payment address: addr1q8zyqeaw97zngcawm8azlpgk7gj66sdpnlrd3fkgnzc7ldfqte0dg59qsj4eyhztkwf0hv62dzj2vnh4l9q5uxncunyq2n9v50
+
+
