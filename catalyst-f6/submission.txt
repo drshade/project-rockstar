@@ -4,6 +4,12 @@ Project Rockstar - the MAIN hustle
 Description (140 chars):
 A gig platform to foster and fuel high-demand and highly-skilled talent, inverting the power dynamic between employers and individuals.
 
+A gig platform to foster and fuel high-demand and highly-skilled talent, inverting the power dynamic between employers and individuals. Not a traditional "microlending" model, but rather a decentralised "investment" model - where talented individuals can raise funds to further their own careers through training and tech equipment (laptop, etc). "Time-tokens" are issued by each individual fund raising smart contract, allowing for voting & distribution of funds to individuals as needed.
+
+ Smart contract for individuals to raise ADA based on a "career plan"; Investors get "timetokens" to vote & distribute funds. 
+ 
+ Investors Individuals raise ADA to fund their career building (training plus laptop, etc) through a smart contract. "Timetokens" are issued by each smart contract proportionately to investors, allowing for voting & distribution of funds as needed.
+
 Tags:
 "cardano" "education" "platform" "africa" "fundraising" "crowdsourcing" "plutus" "marlowe" "dapps" "tokens" "social" "startup" "video" "freelancers" "ecosystem"
 
