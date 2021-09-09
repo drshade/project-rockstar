@@ -33,6 +33,10 @@ So, Project Rockstar is born out of this idea of getting to the origin of the fu
 
 I think it's a very powerful idea, re-inventing the very idea of "employment" itself - and reversing the power-balance between institution and individual.
 
+## TL;DR
+
+Future "Rockstars" can pitch for funding, based on a proposal of training, equipment, career path. Investors commit to providing funding. If the proposal targets are reached, ADA are held in a "treasury" and $time tokens are released to investors proportionately (each representing 1 hour of actual work by the Rockstar) with some kept back as rewards / incentives for the Rockstar to reach certain milestones. ADA is never distributed to the Rockstar directly, but rather through a "partner / supplier" ecosystem to ensure it is used correctly, and these payment events are voted upon by Investors (based on their $time token holdings). Investors are able to trade tokens, but also "cancel" them - receiving back a proportion of the ADA remaining in the proposal treasury - meaning that $time tokens will always have a "minimum" value - ie the proportionate value of the ADA in the treasury at any point in time. Of course, the idea is that the value of the $time token is also linked to the value of that 1 hour redeemable for actual work performed by the Rockstar - e.g. Lawyer, Doctor, Data Scientist, Cloud Engineer - and therefore becomes an effective means of accessing / investing in this class of skill.
+
 ## About me
 
 My name is Tom Wells, and I am a bit of a "couch de-centralist", having discovered and mined a few bitcoins (using my CPU!!) in 2011, and then discovering the disruptive potential of smart-contracts on the Ethereum blockchain as far back as 2016. I was very fortunate to be able to attend DevCon in Prague in 2018, meeting Vitalik briefly, but also cementing my vision in this "brave new world" of decentralisation. Since then, I try to evangelise decentralisation as much as possible, and encourage my software engineering collegues to become "Incentive Engineers" - a term (I may have been the first to?) coin a few years ago describing the central essence of how software must be developed in the future - making use of game theory and individual maximalism - a powerful force in system design. 
@@ -62,7 +66,7 @@ The next iteration under consideration, highly flexible and based on demand
 
 ## Funding requirements
 
-Based on the Phase 1 requirements above, and the support of the Cardano community - my estimate for funding is *$xx*, allowing myself and a small team of high impact individuals to build and launch the platform. I feel this is achievable within 4-6 months of focused development effort. My goal would be to identify 10 principle "rockstars" to work with as the first cohort in a closed pilot phase, in which we can focus with high-care to ensure the system and governance mechanisms work well from both sides.
+Based on the Phase 1 requirements above, and the support of the Cardano community - my estimate for funding is *$xxx,xxx*, allowing myself and a small team of high impact individuals to build and launch the platform. I feel this is achievable within 4-6 months of focused development effort. My goal would be to identify 10 principle "rockstars" to work with as the first cohort in a closed pilot phase, in which we can focus with high-care to ensure the system and governance mechanisms work well from both sides.
 
 ## Contact me
 
