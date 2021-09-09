@@ -62,14 +62,16 @@ The next iteration under consideration, highly flexible and based on demand
 
 ## Funding requirements
 
-Based on the Phase 1 requirements above, and the support of the Cardano community - my estimate for funding is *$120,000*, allowing myself and a small team of high impact individuals to build and launch the platform. I feel this is achievable within 4-6 months of focused development effort. My goal would be to identify 10 principle "rockstars" to work with as the first cohort in a closed pilot phase, in which we can focus with high-care to ensure the system and governance mechanisms work well from both sides.
+Based on the Phase 1 requirements above, and the support of the Cardano community - my estimate for funding is *$xx*, allowing myself and a small team of high impact individuals to build and launch the platform. I feel this is achievable within 4-6 months of focused development effort. My goal would be to identify 10 principle "rockstars" to work with as the first cohort in a closed pilot phase, in which we can focus with high-care to ensure the system and governance mechanisms work well from both sides.
 
 ## Contact me
 
 Thank you so much for allowing me to present the above, and I look forward to comments, suggestions and your support in unlocking this "big idea"!
 
 Contact me on discord: drshade#3337
+
 This url: https://git.io/J0cWk
+
 Proposer ada payment address: addr1q8zyqeaw97zngcawm8azlpgk7gj66sdpnlrd3fkgnzc7ldfqte0dg59qsj4eyhztkwf0hv62dzj2vnh4l9q5uxncunyq2n9v50
 
 
